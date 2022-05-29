@@ -1,0 +1,70 @@
+body {
+    background-color: rgba(248, 232, 170, 0.705);
+    background-image: url(../images/b.c.webp);
+}
+
+.h1 {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Times,'Times New Roman',  serif;
+    color: rgb(64, 73, 82);
+}
+
+.side-list {
+    font-size: 20px;
+    border-style: solid;
+    border-color: rgba(153, 54, 41, 0.315);
+    margin: 10px;
+    width: max-content;
+    padding: 20px;
+    border-radius: 50px;
+    background-image: url(../images/list.bc2.jpg);
+    display: inline-block;
+    text-align: center;
+}
+
+.side-list a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 0px 0px 30px 0px;
+    display: block;
+}
+
+.container {
+    font-size: 20px;
+    border-style: solid;
+    border-color: rgba(153, 54, 41, 0.315);
+    margin: 0% 0% 0% 7%;
+    width: max-content;
+    padding: 20px;
+    border-radius: 50px;
+    background-image: url(../images/list.bc2.jpg);
+    display: inline-block;
+    text-align: center;
+}
+
+.a-con {
+    text-decoration: none;
+    color: red;
+    margin: 10px;
+}
+
+.book {
+    font-size: 40px;
+    border-style: solid;
+    border-color: rgba(153, 54, 41, 0.315);
+    margin: 0% 0% 0% 7%;
+    width: max-content;
+    padding: 20px;
+    border-radius: 50px;
+    background-image: url(../images/list.bc2.jpg);
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.book a {
+    text-decoration: none;
+}

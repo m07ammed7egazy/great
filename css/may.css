@@ -1,0 +1,60 @@
+body {
+    background-image: url(../images/b.c.webp);
+}
+
+.h1 {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Times,'Times New Roman',  serif;
+    color: rgb(64, 73, 82);
+}
+
+.side-list {
+    font-size: 20px;
+    border-style: solid;
+    border-color: rgba(153, 54, 41, 0.315);
+    margin: 10px;
+    width: max-content;
+    padding: 20px;
+    border-radius: 50px;
+    background-image: url(../images/list.bc2.jpg);
+    display: inline-block;
+    text-align: center;
+}
+
+.side-list a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 0px 0px 30px 0px;
+    display: block;
+}
+
+.tasks {
+    display: inline-block;
+    font-size: 30px;
+    margin: 0% 0% 0% 20%;
+    background-color: rgba(69, 6, 121, 0.438);
+    width: 30%;
+    text-align: center;
+    border-radius: 30%;
+    background-image: url(../images/b.c.webp);
+}
+
+h2 {
+    color: cadetblue;
+}
+
+.tasks p {
+    color: black;
+}
+
+.eve-not h2 {
+    display: inline-block;
+    
+}
+
+.eve-not {
+    text-align: center;
+}
